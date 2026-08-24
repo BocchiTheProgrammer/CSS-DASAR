@@ -1,0 +1,14 @@
+p {
+    font-size: 32px;
+}
+
+.bio {
+    color: rgb(139, 33, 33);
+    line-height: 1.5;
+}
+
+#nama {
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(121, 20, 20);
+}
